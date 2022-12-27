@@ -1,4 +1,4 @@
-# Welcome To The Home Awesome rust Of 🦀Rustaceans-By Arman Riazi
+# Welcome To The Awesome rust Of 🦀Rustaceans-By Arman Riazi
 
 ## Cargo packages
 
