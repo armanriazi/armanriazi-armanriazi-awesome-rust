@@ -1,0 +1,9 @@
+[submodule "rust-scratch-blockchain"]
+	path = rust-scratch-blockchain
+	url = https://github.com/armanriazi/rust-scratch-blockchain
+[submodule "rust-fundamental-finance"]
+	path = rust-fundamental-finance
+	url = https://github.com/armanriazi/rust-fundamental-finance
+[submodule "rust-all-in-one-2022-archived"]
+	path = rust-all-in-one-2022-archived
+	url = https://github.com/armanriazi/rust-all-in-one-2022-archived
