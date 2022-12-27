@@ -34,8 +34,9 @@
 - [✓] Configuration Files(devOps)
 
 
+### Used concepts in projects(public and private projects)
 
-### WASM(future work)
+#### - [?] WASM(future work)
 For consume the library we used some WASM compiling strategy:
 > [Bindgen](https://github.com/armanriazi/rust-scratch-blockchain-bin/tree/armanriazi-bindgen0)
 > 
@@ -45,7 +46,6 @@ For consume the library we used some WASM compiling strategy:
 > 
 > [Binary of rust-scratch-blockchain](https://github.com/armanriazi/rust-scratch-blockchain-bin)
 
-### Used Concepts
 
 #### - [✓] Memoization•Lazy•Evaluation  
    > We can create a struct that will hold the closure and the resulting value of calling the closure.
