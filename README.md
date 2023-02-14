@@ -10,6 +10,8 @@
 
 [rust-fundamental-finance](https://github.com/armanriazi/rust-fundamental-finance)
 
+[rust-survey-json](https://github.com/armanriazi/rust-survey-json)
+
 [rust-all-in-one-2022-archived](https://github.com/armanriazi/rust-all-in-one-2022-archived)
 
 
