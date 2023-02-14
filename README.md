@@ -27,7 +27,7 @@
 |:---------------:|:---------------:|:---------------:|:---------------:|:-----------:|
 | rust-scratch-blockchain  | rust-scratch-blockchain  |        Json      | Blockchain | 3 |
 | rust-fundamental-finance | rust-fundamental-finance |      Pure Rust   |    DEFAI   | 3 |
-|          rust-web        |      .., web_edu         | Diesel,Actix,Yew |    Web     | 3 |
+|          rust-web        |      .., web_edu         | Diesel,Actix,Yew |    Web     | 2 |
 |  rust-survey-json        |    rust-survey-json      |      Json        |    Rust    | 3 |
 | rust-all-in-one-projects |      .., rust-survey     |     Pure Rust    |    Rust    | 1 |
 |      rust-all-in-one     |         [private](https://github.com/armanriazi/rust-all-in-one/blob/main/README.md)          |     Pure Rust    |    Rust    | 2 |
