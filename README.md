@@ -1,4 +1,4 @@
-# Welcome To The Awesome rust Of 🦀Rustaceans-By Arman Riazi
+# Welcome To The Awesome Rust Of 🦀Rustaceans-By Arman Riazi
 
 ## Cargo packages
 
@@ -30,9 +30,10 @@
 |          rust-web        |      .., web_edu         | Diesel,Actix,Yew |    Web     |
 |  rust-survey-json        |    rust-survey-json      |      Json        |    Rust    |
 | rust-all-in-one-projects |      .., rust-survey     |     Pure Rust    |    Rust    |
-|      rust-all-in-one     |         [private](https://github.com/armanriazi/rust-all-in-one/blob/main/README.md)          |     Pure Rust    |    Rust    | 2 |
-| rust-all-in-one-2022     |         [archived](https://github.com/armanriazi/rust-all-in-one-2022-archived/blob/main/README.md)         |     Pure Rust    |    Rust    | 1 |
+|      rust-all-in-one     |         [private](https://github.com/armanriazi/rust-all-in-one/blob/main/README.md)          |     Pure Rust    |    Rust    |
+| rust-all-in-one-2022     |         [archived](https://github.com/armanriazi/rust-all-in-one-2022-archived/blob/main/README.md)         |     Pure Rust    |    Rust    |
 
+**[Substrate framework with Rust](https://armanriazi.github.io/public/blockchain/Substrate/?h=substrate)***
 
 ### Features
 
