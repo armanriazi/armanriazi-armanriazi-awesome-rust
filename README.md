@@ -23,13 +23,13 @@
 
 ## Table of My Rust Experience
 
-| Repository | Project | Integrated/Tools with | Scope | Rate of My Contribution(1-3) |
+| Repository | Project | Integrated/Tools with | Scope |
 |:---------------:|:---------------:|:---------------:|:---------------:|:-----------:|
-| rust-scratch-blockchain  | rust-scratch-blockchain  |        Json      | Blockchain | 3 |
-| rust-fundamental-finance | rust-fundamental-finance |      Pure Rust   |    DEFAI   | 3 |
-|          rust-web        |      .., web_edu         | Diesel,Actix,Yew |    Web     | 2 |
-|  rust-survey-json        |    rust-survey-json      |      Json        |    Rust    | 3 |
-| rust-all-in-one-projects |      .., rust-survey     |     Pure Rust    |    Rust    | 1 |
+| rust-scratch-blockchain  | rust-scratch-blockchain  |        Json      | Blockchain |
+| rust-fundamental-finance | rust-fundamental-finance |      Pure Rust   |    DEFAI   |
+|          rust-web        |      .., web_edu         | Diesel,Actix,Yew |    Web     |
+|  rust-survey-json        |    rust-survey-json      |      Json        |    Rust    |
+| rust-all-in-one-projects |      .., rust-survey     |     Pure Rust    |    Rust    |
 |      rust-all-in-one     |         [private](https://github.com/armanriazi/rust-all-in-one/blob/main/README.md)          |     Pure Rust    |    Rust    | 2 |
 | rust-all-in-one-2022     |         [archived](https://github.com/armanriazi/rust-all-in-one-2022-archived/blob/main/README.md)         |     Pure Rust    |    Rust    | 1 |
 
